@@ -19,12 +19,14 @@ e boas práticas**, e evoluir o projeto de forma incremental.
 
 ## 🧱 Estrutura do Repositório
 
+```text
 blue-team-labs/
 ├── logs/               # Logs utilizados para análise
 │   └── ssh/
 ├── detections/         # Documentação de detecções
 ├── incident-response/  # Resposta a incidentes simulados
 └── roadmap.md          # Planejamento de evolução do projeto
+```
 
 ## 🔍 Abordagem
 
